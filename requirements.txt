@@ -1,0 +1,7 @@
+whisper
+sounddevice
+numpy
+scipy
+deep-translator
+gTTS
+webrtcvad
